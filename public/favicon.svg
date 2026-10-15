@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Orange background circle -->
+  <circle cx="64" cy="64" r="64" fill="#ed4c26"/>
+  
+  <!-- White "h." text -->
+  <text x="64" y="90" font-family="Arial, sans-serif" font-size="72" font-weight="800" fill="#fff" text-anchor="middle" letter-spacing="-4">h</text>
+  <circle cx="92" cy="80" r="5" fill="#fff"/>
+  
+  <!-- Orange asterisk in top right -->
+  <text x="105" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#421e14">✳</text>
+</svg>
